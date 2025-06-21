@@ -1,4 +1,5 @@
 {
+    "BucketHandler": "blob.hl",
     "Versions": {
     "3.0.3": {
         "Description": "Hello, I've fixed the Injection crashing for Stellar. Just head to the website and download the new version. No more pinging for now.",
