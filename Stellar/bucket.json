@@ -1,12 +1,22 @@
 {
+
     "BucketName": "Stellar",
     "Description": "A bucket for storing files related to the Stellar executor",
     "Owner": "binninwl",
     "BucketHandler": "blob",
     "Versions": {
-    "3.0.3": {
-        "Description": "Hello, I've fixed the Injection crashing for Stellar. Just head to the website and download the new version. No more pinging for now.",
-        "ReleaseDate": "2025-07-21"
-    }
+
+        "3.0.3": {
+            "Description": "Hello, I've fixed the Injection crashing for Stellar. Just head to the website and download the new version. No more pinging for now.",
+            "ReleaseDate": "2025-06-21",
+            "Index": "./3.0.3.zip"
+        },
+
+        "3.0.4": {
+            "Description": "Future version",
+            "ReleaseDate": "2025-??-??",
+            "Index": "./3.0.4.zip"
+        }
+
     }
 }
