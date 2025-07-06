@@ -13,8 +13,8 @@
         },
 
         "3.0.4": {
-            "Description": "Future version",
-            "ReleaseDate": "2025-??-??",
+            "Description": "Stellar Updated!\nAfter around 2 weeks of rewriting and testing, we are finally done and ready to release!\nYou can find this update at https://www.getstellar.vercel.app/.\n\nIn this update we have done the following:\n- Full rewrite\n- Stability fixes (you can now run Infinite Yield, sUNC and more!)\n- Made a fully working decompiler\n- Wrote 99% UNC functions\n- And 98% sUNC.\n\nThank you for your patience and cooperation.\nIf you have any issues, please make a ticket.\nThank you!",
+            "ReleaseDate": "2025-07-06",
             "Index": "./3.0.4.zip"
         }
 
